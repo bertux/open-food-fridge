@@ -1,0 +1,9 @@
+{
+  "name": "open-food-fridge",
+  "version": "1.0.0",
+  "description": "Open inventory of food in your fridge",
+  "main": "index.js",
+  "repository": "https://github.com/bertux/open-food-fridge.git",
+  "author": "Bertrand Juglas <b@juglas.name>",
+  "license": "MIT"
+}
