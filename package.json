@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/bertux/open-food-fridge.git",
   "author": "Bertrand Juglas <b@juglas.name>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "api": "^5.0.5"
+  }
 }
